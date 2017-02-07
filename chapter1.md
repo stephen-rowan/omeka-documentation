@@ -7,9 +7,11 @@ This guide assumes :
 
 etc..
 
-Useful links :
+
 
 ---
+
+## Useful links :
 
 * Install Ubuntu 16.04 LAMP server on VirtualBox by Catherine Gaughan-Smith \(YouTube Videos\)
 
