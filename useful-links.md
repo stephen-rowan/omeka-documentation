@@ -12,9 +12,9 @@
 
 * [Quick guide: How to add Featherlight lightbox to Seasons theme](http://omeka.org/forums-legacy/topic/quick-guide-how-to-add-featherlight-lightbox-to-seasons-theme)
 
-* Image Size Constraints :
-** [Changing Image Sizes](http://omeka.org/forums-legacy/topic/changing-image-sizes) - 
-** [Image size constraints](http://omeka.org/forums-legacy/topic/image-size-constraints) -
+* [Changing Image Sizes](http://omeka.org/forums-legacy/topic/changing-image-sizes)
+
+* [Image size constraints](http://omeka.org/forums-legacy/topic/image-size-constraints)
 
 
 ##Exporting data from Omeka
