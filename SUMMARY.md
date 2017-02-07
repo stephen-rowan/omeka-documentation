@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Installing Omeka 2.5 in VirtualBox 5.1](chapter1.md)
