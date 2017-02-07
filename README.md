@@ -5,6 +5,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 * [Installing Omeka 2.5 in VirtualBox 5.1](chapter1.md)
+* [Useful links](useful-links.md)
 
 
 
