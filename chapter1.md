@@ -2,8 +2,8 @@
 
 This guide assumes :
 
-* An installation of VirtualBox 5.1 \([https://www.virtualbox.org/wiki/Downloads\](https://www.virtualbox.org/wiki/Downloads\)\).
-* A Ubuntu \([https://www.ubuntu.com/\](https://www.ubuntu.com/\)\) or Xubuntu \([http://xubuntu.org/\](http://xubuntu.org/\)\) desktop installation.
+* An installation of [VirtualBox 5.1]([https://www.virtualbox.org/wiki/Downloads\](https://www.virtualbox.org/wiki/Downloads\).
+* A [Ubuntu]([https://www.ubuntu.com/\](https://www.ubuntu.com/\) or [Xubuntu]([http://xubuntu.org/\](http://xubuntu.org/\) desktop installation.
 
 etc..
 
