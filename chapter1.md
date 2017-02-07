@@ -13,7 +13,7 @@ etc..
 
 * Install Ubuntu 16.04 LAMP server on VirtualBox  by Catherine Gaughan-Smith \(YouTube Videos\)
 
-[Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4\)
+[Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4)
 
 [Part 2 of 4](https://www.youtube.com/watch?v=PT20hHV9l-8)
 
