@@ -4,7 +4,12 @@
 
 * [Main Omeka website](http://omeka.org/)
 
+##Omeka Installation :
+
 * [Omeka Installation](https://omeka.org/codex/Installation)
+* [Installing Omeka By Jonathan Reeve](http://programminghistorian.org/lessons/installing-omeka) from  [
+The Programming Historian](http://programminghistorian.org/) website
+##Omeka Themes :
 
 * [Seasons theme](http://omeka.org/add-ons/themes/seasons/)
 
