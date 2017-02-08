@@ -37,12 +37,16 @@ Go to [your-hostname]:8080 and you should see the Apache2 Ubuntu Default Page.
 * Enter a command to create the database:
 >CREATE DATABASE [database-name] CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-
 >CHARACTER SET utf8 COLLATE utf8_general_ci ensures that you can use the full character set in your web site, and not just the Latin character set.
 
+* Create a database user account:
+>CREATE USER '[user-name]'@'[hostname]' IDENTIFIED by '[password]';
 
+* Allow your new user to access our newly-created database by typing these commands:
+>GRANT ALL PRIVILEGES ON [user-name].* TO '[user-name]'@'[hostname]'; FLUSH PRIVILEGES;
 
-
+* exit
+>type exit
 
 
 
