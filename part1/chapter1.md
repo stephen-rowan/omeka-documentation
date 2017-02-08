@@ -39,7 +39,7 @@ Settings-&gt;System-Processor
 |  |  |
 | :--- | :--- |
 | Processor\(s\) | 2 |
-| Extended Features  | Enable PAE/NX \[^2\] |
+| Extended Features  | Enable PAE/NX \[^1\] |
 
 [^1]: Physical Address Extension (PAE) The processor must be running in Physical Address Extension (PAE) mode to use the NX processor feature. PAE is a processor feature that enables x86 processors to access more than 4 GB of physical memory on capable versions of Windows.
 
