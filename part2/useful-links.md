@@ -27,7 +27,6 @@ The Programming Historian](http://programminghistorian.org/) website
 * [Omeka API to CSV Script](https://github.com/omeka/PythonOmekaApiToCsv). 
 
 >This repo includes a Python script which allows users to generate CSV files of the metadata in their Omeka installations. It will retreive the metadata for items, collections, element sets, elements, files, tags, exhibits, and exhibit pages. However, it does not retreive the files themselves. Only the metadata associated with them.
-#
 
 ## Virtual Machine Set-up :
 
