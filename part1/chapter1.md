@@ -5,9 +5,29 @@ This guide assumes :
 * An installation of [VirtualBox 5.1](https://www.virtualbox.org/wiki/Downloads).
 * A [Ubuntu](https://www.ubuntu.com/) or [Xubuntu](http://xubuntu.org/) desktop installation.
 
-etc..
+## Setup Virtual Machine
+
+In VirtualBox 5.1 :
+
+File-&gt;New
+
+| Name and Operating System |  |
+| :--- | :--- |
+| Name | YOUR-VM-NAME |
+| Operating System | Linux |
+| Version | Ubuntu \(64 bit\) |
+|  |  |
+| Memory Size | 1024 MB |
+|  |  |
+| Hard Disk | Create a virtual hard disk now. |
+
+ 
+
+ 
 
 ---
+
+## 
 
 ## Useful links :
 
