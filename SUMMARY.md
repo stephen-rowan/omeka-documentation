@@ -6,6 +6,7 @@
   * [Install Ubuntu Server](part1/install-ubuntu-server.md)
   * [Configure Ubuntu Server](part1/configure-ubuntu-server.md)
   * [Download and Install Omeka.](download-and-install-omeka.md)
+  * [Configure Omeka to Use Your Database.](part1/configure-omeka-to-use-your-database.md)
 * [Part 2](part2/README.md)
   * [Useful links](part2/useful-links.md)
 
