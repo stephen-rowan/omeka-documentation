@@ -5,6 +5,7 @@
   * [Setup Virtual Machine](part1/chapter1.md)
   * [Install Ubuntu Server](part1/install-ubuntu-server.md)
   * [Configure Ubuntu Server](part1/configure-ubuntu-server.md)
+  * [Download and Install Omeka.](download-and-install-omeka.md)
 * [Part 2](part2/README.md)
   * [Useful links](part2/useful-links.md)
 
