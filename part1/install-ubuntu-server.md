@@ -42,6 +42,31 @@ As soon as the install screen appears [^3] press F4 and select ...
 
 * Leave blank.
 
+### How do you want to manage upgrades on this server ?
+
+* Install security updates automatically.
+
+### Software selection : 
+
+Spacebar to Select :
+
+* LAMP Server
+* OpenSSH Server
+* Basic Ubuntu Server
+
+### New Password for MYSQL "root" user :
+
+As this is a development machine (otherwise choose a secure password) :
+
+* root
+
+
+### Install the GRUB boot loader to the master boot record ?
+
+* Yes
+
+
+
 
 [^3]: press esc to return to first install screen if necessary.
 
