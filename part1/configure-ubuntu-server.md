@@ -10,6 +10,13 @@ Go to [your-hostname]:8080 and you should see the Apache2 Ubuntu Default Page.
 
 ##Update and upgrade Ubuntu Server :
 
-login to Ubuntu server
+* login to Ubuntu server
+
+* switch to root - 
+>sudo su root
+
+
+
+
 
 
