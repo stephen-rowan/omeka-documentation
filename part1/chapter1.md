@@ -1,4 +1,4 @@
-## Setup Virtual Machine
+# Setup Virtual Machine
 
 In VirtualBox 5.1 :
 
