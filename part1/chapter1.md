@@ -39,7 +39,7 @@ File-&gt;New
 |  |  |
 | :--- | :--- |
 | Processor\(s\) | 2 |
-| Extended Features  | Enable PAE/NX \[^1] |
+| Extended Features  | Enable PAE/NX [^1] |
 
 
 ### Settings-&gt;Storage
