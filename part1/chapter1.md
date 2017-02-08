@@ -27,8 +27,22 @@ File-&gt;New
 | :--- | :--- |
 | File location : | YOUR-VM-NAME |
 | File Size : | 8.00 GB |
-|Hard Disk type : | VirtualBox Disk Image| 
-|Storage on Hard Disk :| Dynamically Allocated|
+| Hard Disk type : | VirtualBox Disk Image |
+| Storage on Hard Disk : | Dynamically Allocated |
+
+
+
+## Configure Virtual Machine
+
+Settings-&gt;System-Processor 
+
+|  |  |
+| :--- | :--- |
+| Processor\(s\) | 2 |
+| Extended Features  | Enable PAE/NX \[^2\] |
+
+[^1]: Physical Address Extension (PAE) The processor must be running in Physical Address Extension (PAE) mode to use the NX processor feature. PAE is a processor feature that enables x86 processors to access more than 4 GB of physical memory on capable versions of Windows.
+
 
 
 
