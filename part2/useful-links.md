@@ -9,6 +9,7 @@
 * [Omeka Installation](https://omeka.org/codex/Installation)
 * [Installing Omeka By Jonathan Reeve](http://programminghistorian.org/lessons/installing-omeka) from  [
 The Programming Historian](http://programminghistorian.org/) website
+
 ##Omeka Themes :
 
 * [Seasons theme](http://omeka.org/add-ons/themes/seasons/)
@@ -32,12 +33,12 @@ The Programming Historian](http://programminghistorian.org/) website
 
 * Install Ubuntu 16.04 LAMP server on VirtualBox by Catherine Gaughan-Smith \(YouTube Videos\)
 
-[Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4)
+* [Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4)
 
-[Part 2 of 4](https://www.youtube.com/watch?v=PT20hHV9l-8)
+* [Part 2 of 4](https://www.youtube.com/watch?v=PT20hHV9l-8)
 
-[Part 3 of 4](https://www.youtube.com/watch?v=aC0bAJWm8wo)
+* [Part 3 of 4](https://www.youtube.com/watch?v=aC0bAJWm8wo)
 
-[Part 4 of 4](https://www.youtube.com/watch?v=toD45fK6slA&t=777s)
+* [Part 4 of 4](https://www.youtube.com/watch?v=toD45fK6slA&t=777s)
 
 
