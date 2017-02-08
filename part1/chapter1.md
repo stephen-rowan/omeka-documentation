@@ -60,7 +60,7 @@ Create a shared folder on your desktop to transfer files to virtual machine ...
 
 
 
-
+--
 
 [^1]: Physical Address Extension (PAE) The processor must be running in Physical Address Extension (PAE) mode to use the NX processor feature. PAE is a processor feature that enables x86 processors to access more than 4 GB of physical memory on capable versions of Windows.
 
