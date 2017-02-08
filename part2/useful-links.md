@@ -22,4 +22,18 @@
 * [Omeka API to CSV Script](https://github.com/omeka/PythonOmekaApiToCsv). 
 
 >This repo includes a Python script which allows users to generate CSV files of the metadata in their Omeka installations. It will retreive the metadata for items, collections, element sets, elements, files, tags, exhibits, and exhibit pages. However, it does not retreive the files themselves. Only the metadata associated with them.
+#
+
+## Virtual Machine Set-up :
+
+* Install Ubuntu 16.04 LAMP server on VirtualBox by Catherine Gaughan-Smith \(YouTube Videos\)
+
+[Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4)
+
+[Part 2 of 4](https://www.youtube.com/watch?v=PT20hHV9l-8)
+
+[Part 3 of 4](https://www.youtube.com/watch?v=aC0bAJWm8wo)
+
+[Part 4 of 4](https://www.youtube.com/watch?v=toD45fK6slA&t=777s)
+
 

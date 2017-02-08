@@ -21,23 +21,15 @@ File-&gt;New
 |  |  |
 | Hard Disk | Create a virtual hard disk now. |
 
- 
-
- 
-
 ---
 
-## 
+| Create virtual hard drive |  |
+| :--- | :--- |
+| File location : | YOUR-VM-NAME |
+| File Size : | 8.00 GB |
+|Hard Disk type : | VirtualBox Disk Image| 
+|Storage on Hard Disk :| Dynamically Allocated|
 
-## Useful links :
 
-* Install Ubuntu 16.04 LAMP server on VirtualBox  by Catherine Gaughan-Smith \(YouTube Videos\)
 
-[Part 1 of 4](https://www.youtube.com/watch?v=dJwSgypywB4)
-
-[Part 2 of 4](https://www.youtube.com/watch?v=PT20hHV9l-8)
-
-[Part 3 of 4](https://www.youtube.com/watch?v=aC0bAJWm8wo)
-
-[Part 4 of 4](https://www.youtube.com/watch?v=toD45fK6slA&t=777s)
 
