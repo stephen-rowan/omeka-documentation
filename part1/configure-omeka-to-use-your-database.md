@@ -1,9 +1,13 @@
 #Configure Omeka to Use Your Database
 
-* cd /var/www/html/omeka
+* Install nano editor :
+>apt-get install nano
 
+* Go to the root of your omeka directory :
+>cd /var/www/html/omeka
 
-
+* Edit the db.ini file :
+>nano db.ini
 
 
 
