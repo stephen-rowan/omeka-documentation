@@ -12,11 +12,14 @@ Go to [your-hostname]:8080 and you should see the Apache2 Ubuntu Default Page.
 
 * login to Ubuntu server
 
-* switch to root - 
+* switch to root:
 >sudo su root
 
+* update our system:
+>apt-get update
 
-
+* upgrade our system:
+> apt-get upgrade
 
 
 
