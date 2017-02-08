@@ -41,11 +41,33 @@ File-&gt;New
 | Processor\(s\) | 2 |
 | Extended Features  | Enable PAE/NX [^1] |
 
-
 ### Settings-&gt;Storage
 
-In the Storage Settings go to Attributes->Optical Drive and load  an Ubuntu Server ISO image (ubuntu-16.04.1-server-amd64.iso used in this install).
+In the Storage Settings go to Attributes->Optical Drive and load  an Ubuntu Server ISO image [^2].
 
+### Network
+
+Configure Port-forwarding
+
+Network -> Adapter 1 -> Advanced -> Port Forwarding
+
+| Name | Protocol | Host IP | Host Port | Guest IP | Guest Port |
+|:--- |:--- |:--- |:--- |:--- |:--- |    
+| HTTP | TCP      |         |      8080 |          |         80 |
+| SSH  | TCP      |         |      2221 |          |         22 |
+
+### Shared Folders
+
+Create a shared folder on your desktop to transfer files to virtual machine ...
+
+/home/[name]/Desktop/[VM Name]
+
+* Uncheck Read-Only
+* Select Auto-Mount
+
+## Install Ubuntu Server
+
+Start your newly created virtual machine ...
 
 
 
@@ -55,7 +77,7 @@ In the Storage Settings go to Attributes->Optical Drive and load  an Ubuntu Serv
 
 [^1]: Physical Address Extension (PAE) The processor must be running in Physical Address Extension (PAE) mode to use the NX processor feature. PAE is a processor feature that enables x86 processors to access more than 4 GB of physical memory on capable versions of Windows.
 
-
+[^2]: ubuntu-16.04.1-server-amd64.iso used in this install
 
 
 
