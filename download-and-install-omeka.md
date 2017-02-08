@@ -1,10 +1,10 @@
 #Download and Install Omeka
 
-* Go to root of html folder on server :
+* Go to root of the html folder on your Ubuntu server :
 >cd /var/www/html
 
 * Logged in as the root user with *su root* download Omeka: 
->wget http://omeka.org/files/omeka-2.4.zip [^4]
+>wget http://omeka.org/files/omeka-2.4.1.zip [^4]
 
 
 
