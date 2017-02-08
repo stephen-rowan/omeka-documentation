@@ -8,8 +8,7 @@
 
 * [Omeka Installation](https://omeka.org/codex/Installation)
 * [Omeka Version History](http://omeka.org/codex/Version_History)
-* [Installing Omeka By Jonathan Reeve](http://programminghistorian.org/lessons/installing-omeka) from  [
-The Programming Historian](http://programminghistorian.org/) website
+* [Installing Omeka By Jonathan Reeve](http://programminghistorian.org/lessons/installing-omeka) from  [The Programming Historian](http://programminghistorian.org/) website
 
 ##Omeka Themes :
 
