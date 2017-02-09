@@ -9,4 +9,5 @@
   * [Configure Omeka to Use Your Database.](part1/configure-omeka-to-use-your-database.md)
 * [Part 2](part2/README.md)
   * [Useful links](part2/useful-links.md)
+* [Set-up Omeka on VirtualBox using Turnkey linux](set-up-omeka-on-virtualbox-using-turnkey-linux.md)
 
