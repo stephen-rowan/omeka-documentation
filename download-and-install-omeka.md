@@ -18,13 +18,4 @@
 * If you want your Omeka web site to have the URL http://your-domain.com/omeka/, change the name of the directory:
 >mv omeka-2.4 omeka
 
-
-
-
---
-
-
 [^4]: Omeka Version History is available at http://omeka.org/codex/Version_History
-
-
-

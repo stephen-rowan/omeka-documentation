@@ -47,7 +47,3 @@ Go to [your-hostname]:8080 and you should see the Apache2 Ubuntu Default Page.
 
 * exit
 >type exit
-
-
-
-

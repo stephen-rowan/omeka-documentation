@@ -60,7 +60,6 @@ As this is a development machine (otherwise choose a secure password) :
 
 * root
 
-
 ## Install the GRUB boot loader to the master boot record ?
 
 * Yes
@@ -68,7 +67,6 @@ As this is a development machine (otherwise choose a secure password) :
 ## After installation consider taking a VirtualBox snapshot
 
 This will enable you to rollback mistakes or clone a fresh ubuntu server install elsewhere.
-
 
 
 [^3]: press esc to return to first install screen if necessary.

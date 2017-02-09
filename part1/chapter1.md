@@ -24,7 +24,6 @@ File-&gt;New
 | Storage on Hard Disk : | Dynamically Allocated |
 
 
-
 ## Configure Virtual Machine
 
 ### Settings-&gt;System-Processor 
@@ -57,8 +56,6 @@ Create a shared folder on your desktop to transfer files to virtual machine ...
 
 * Uncheck Read-Only
 * Select Auto-Mount
-
-
 
 --
 
