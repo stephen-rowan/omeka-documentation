@@ -9,6 +9,6 @@
 * Edit the db.ini file :
 >nano db.ini
 
-
-
+* Change the owner of our Omeka installation, so that it’s readable by the Internet:
+>chown -R www-data:www-data .
 
