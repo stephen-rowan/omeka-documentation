@@ -6,4 +6,13 @@
 >sudo apt install python-pip
 >pip2 install httplib2 --upgrade
 
+* This script produced the following csv files :
+>element_sets_output.csv
+elements_output.csv
+files_output.csv
+items_output.csv
+tags_output.csv
+
+
+
 
