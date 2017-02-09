@@ -6,6 +6,10 @@
 >sudo apt install python-pip
 >pip2 install httplib2 --upgrade
 
+* The script prompts for your Omeka API endpoint. The Omeka endpoint is the URL to your Omeka website followed by /api, like this:
+>http://yourdomain.com/api
+
+
 * This script produced the following csv files :
 >element_sets_output.csv
 elements_output.csv
