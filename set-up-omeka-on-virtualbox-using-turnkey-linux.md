@@ -7,7 +7,11 @@
 ##Omeka Installation :
 
 * [Omeka Installation](https://omeka.org/codex/Installation)
+
 * [Omeka Version History](http://omeka.org/codex/Version_History)
+
+* [Turnkey Linux Omeka](https://www.turnkeylinux.org/omeka)
+
 * [Installing Omeka By Jonathan Reeve](http://programminghistorian.org/lessons/installing-omeka) from  [The Programming Historian](http://programminghistorian.org/) website
 
 ##Omeka Themes :
